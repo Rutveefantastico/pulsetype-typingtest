@@ -131,7 +131,7 @@ Built to simulate a real-world product with modern UI/UX and scalable architectu
 ---
 
 ## 📂 Project Structure
-/client
+/clientt
 /src
 /components
 /pages
